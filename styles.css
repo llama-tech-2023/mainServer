@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: rgb(47, 129, 31);
+}
+h1{
+    text-align: center;
+    color:rgba(47, 129, 31, 0.4);
+}
+h3{
+    text-align: left;
+    color: rgba(47, 129, 31, 0.5);
+}
+h4 {
+    text-align: center;
+}
+h5{
+    text-align: left;
+}
+a{
+    color:rgba(47, 129, 31, 0.4)
+}
+footer{
+    text-align: center;
+    fill:rgb(102, 104, 102)
+}
